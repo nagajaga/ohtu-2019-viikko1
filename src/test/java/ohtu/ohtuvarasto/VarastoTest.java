@@ -128,6 +128,6 @@ public class VarastoTest {
     @Test
 
     public void toStringTesti(){
-        assertEquals("saldo = 4.0, vielä tilaa 7.0", alkusaldovarasto.toString());
+        assertEquals("saldo = 3.0, vielä tilaa 7.0", alkusaldovarasto.toString());
     }
 }
